@@ -1,1 +1,14 @@
-N
+Viết chương trình Tìm số Nguyên tố đầu tiên xuất hiện trong mảng 1 chiều a có n phần tử.
+yêu cầu: - Viết 3 hàm: Nhập, xuất, Tìm số NT đầu tiên (có thể có hàm nhỏ hơn)
+          - Hàm Main:
+                    Sau khi Gọi Hàm Nhập mảng, cho phép người dùng Chọn 2 chức năng: 
+                + Nhập A: Tìm và In ra số NT đầu tiên
+                + Nhập B: Xuất mảng
+  Yêu cầu Nộp Bài: 
+    + Mỗi SV tạo 1 Branch tên : Mã Số Sinh Viên của mình, Source là nhánh main
+    + Upload 2 Hình vào Branch của mình: Hình code nếu nhiều thì 2,3 hình (có minh chứng bài của mình như tên file or Chú thích,...), 
+                                         Hình chạy chương trình Terminal (chạy được sẽ có tên máy mình ngồi)
+    Lưu ý: ko chạy được or có code ko chạy dc, ... cũng phải có file upload lên branch của mình để lấy 5đ upload
+           ai làm sai qui định upload như sai tên branch, upload sai, ko có upload gì,... sẽ bị trừ điểm nội dung 5đ phần GitHub
+
+Bài kiểm tra chia 2 nội dung: 5đ lập trình C, 5đ GitHub
