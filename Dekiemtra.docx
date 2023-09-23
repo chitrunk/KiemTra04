@@ -2,7 +2,7 @@ Viết chương trình Tìm số Nguyên tố đầu tiên xuất hiện trong m
 yêu cầu: - Viết 3 hàm: Nhập, xuất, Tìm số NT đầu tiên (có thể có hàm nhỏ hơn)
           - Hàm Main:
                     Sau khi Gọi Hàm Nhập mảng, cho phép người dùng Chọn 2 chức năng: 
-                + Nhập A: Tìm và In ra số NT đầu tiên
+                + Nhập A: Tìm và In ra số NT đầu tiên và vị trí của nó
                 + Nhập B: Xuất mảng
                  + Nhập C: thoát
   Yêu cầu Nộp Bài: 
