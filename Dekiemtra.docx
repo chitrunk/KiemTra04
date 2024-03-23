@@ -4,7 +4,7 @@ yêu cầu: - Viết 3 hàm: Nhập, xuất, Tìm số NT đầu tiên (có th�
                     Sau khi Gọi Hàm Nhập mảng, cho phép người dùng Chọn 2 chức năng: 
                 + Nhập A: Tìm và In ra số NT đầu tiên và vị trí của nó
                 + Nhập B: Xuất mảng
-                 + Nhập C: thoát
+                 + Nhập C: thoáttttt
   Yêu cầu Nộp Bài: 
     + Mỗi SV tạo 1 Branch tên : Mã Số Sinh Viên của mình, Source là nhánh main
     + Upload 2 Hình vào Branch của mình: Hình code nếu nhiều thì 2,3 hình (có minh chứng bài của mình như tên file or Chú thích,...), 
